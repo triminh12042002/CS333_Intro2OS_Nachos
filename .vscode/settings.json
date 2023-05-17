@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "array": "c",
+        "system_error": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "ratio": "c",
+        "thread": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "new": "cpp"
+    }
+}
